@@ -1,2 +1,0 @@
-# qzm
-Begin app
